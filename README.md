@@ -41,7 +41,7 @@ The `codecave` class allows you to create code caves, which are sections of memo
 - `CreateJump`: Creates a Jump instruction from and to specific memory locations.
 - `CalculateJump`: Calculates how many bytes required to jump from origin to target location.
 - `ScanMemory`: Scans memory for a specific byte string (AOB Scan).
-- + Various other read/write methods for specific data types and conversions.
+- Various other read/write methods for specific data types and conversions.
 
 ### CodeCave
 
